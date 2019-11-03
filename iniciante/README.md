@@ -10,7 +10,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
 ## Linguagens / Bibliotecas
 
-### Linguagem : C
+### Linguagem C:
 
 ```c
     #include <stdio.h>
