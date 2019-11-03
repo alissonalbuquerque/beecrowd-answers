@@ -12,6 +12,16 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
 ### Linguagem : C
 
+```c
+    #include <stdio.h>
+
+    int main() {
+
+
+        return 0;
+    }
+```
+
 ### Bibliotecas C:
 
 ```c
