@@ -6,6 +6,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 ## Quetões Respondidas
 
 * 1001 - Extremamente Básico
+* 1002 - Área do Círculo
 
 ## Linguagens / Bibliotecas
 
@@ -14,3 +15,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 ### Bibliotecas:
 * <stdio.h>
     * printf();
+    * scanf();
+
+* <math.h>
+    * pow();
