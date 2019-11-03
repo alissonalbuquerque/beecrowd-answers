@@ -1,2 +1,3 @@
-# Programação Competitiva
-Códigos das respostas das questões da plataforma URI em C/C++
+# URI : C / C++
+
+Respostas do URI em C / C++
