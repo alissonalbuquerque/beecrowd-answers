@@ -12,10 +12,16 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
 ### Linguagem : C
 
-### Bibliotecas:
-* <stdio.h>
-    * printf();
-    * scanf();
+### Bibliotecas C:
 
-* <math.h>
-    * pow();
+```c
+#include <stdio.h>
+
+    printf();
+    scanf();
+```
+```c
+#include <math.h>
+
+    pow();
+```
