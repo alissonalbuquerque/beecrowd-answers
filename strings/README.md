@@ -5,7 +5,22 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
 ## Quetões Respondidas
 
-*  
+* 1024 - Criptografia
+* 1120 - 
+* 1141 - 
+* 1168 - 
+* 1222 - 
+* 1234 - 
+* 1235 - 
+* 1237 - 
+* 1238 - 
+* 1239 - 
+* 1241 -
+* 1243 - 
+* 1248 - 
+* 1249 - 
+* 1253 - 
+* 1254 - 
 
 ## Linguagens / Bibliotecas
 
@@ -25,7 +40,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
 ### Bibliotecas C++:
 
-```cpp
+```c++
 #include <iostream>
 
 using namespace std;
