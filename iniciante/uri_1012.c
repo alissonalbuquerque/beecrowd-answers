@@ -22,6 +22,7 @@ double quadrado(double b) {
 double retangulo(double a, double b) {
     return a * b;
 }
+
 int main() {
 
     double a, b, c;
