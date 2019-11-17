@@ -47,7 +47,19 @@ using namespace std;
 
 std::cin
 std::cout
+std::endl
 
 std::cin.ignore();
 
+std::getline(cin, string);
+```
+
+```c++
+#include <string>
+
+using namespace std;
+
+std::string str;
+std::string.size();   // str.size();
+std::string.length(); // str.length(); 
 ```
