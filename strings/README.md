@@ -25,12 +25,12 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
 ### Bibliotecas C++:
 
-```c++
+```cpp
 #include <iostream>
 
 using namespace std;
 
-cin
+std::cin
 std::cout
 
 std::cin.ignore();
