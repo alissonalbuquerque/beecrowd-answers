@@ -1,7 +1,7 @@
 
 # Informações
 
-Lista de questões e Elementos da linguagem que foram usados no conjunto de questões (Linguagens, Bibliotecas, Funções Tipos de dados etc)
+Lista de questões e Elementos da linguagem que foram usados no conjunto de questões (Linguagens, Bibliotecas, Funções, Tipos de dados etc)
 
 ## Quetões Respondidas
 
