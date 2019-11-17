@@ -28,7 +28,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 ```c++
 #include <iostream>
 
-std::cin
+cin
 std::cout
 
 std::cin.ignore();
