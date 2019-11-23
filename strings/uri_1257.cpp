@@ -12,6 +12,7 @@ int main() {
 
     int q, n, valor = 0, somatorio = 0;
     string str;
+    
     cin >> q;
     while(q--) {
 
