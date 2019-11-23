@@ -21,6 +21,8 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 * 1249 - 
 * 1253 - 
 * 1254 - 
+* 1255 - 
+* 1257 - Array Hash
 
 ## Linguagens / Bibliotecas
 
