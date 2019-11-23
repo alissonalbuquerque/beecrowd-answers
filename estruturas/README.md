@@ -3,7 +3,7 @@
 
 Lista de questões e Elementos da linguagem que foram usados no conjunto de questões (Linguagens, Bibliotecas, Funções, Tipos de dados etc)
 
-## Quetões Respondidas
+## Questões Respondidas
 
 * 
 * 
@@ -25,7 +25,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 * 
 * 
 * 
-* [Lista Completa]: https://github.com/alissonalbuquerque/URI-C_CPP/blob/master/estruturas/lista.md
+* [Lista Completa](https://github.com/alissonalbuquerque/URI-C_CPP/blob/master/estruturas/lista.md)
 
 ## Linguagens / Bibliotecas
 
