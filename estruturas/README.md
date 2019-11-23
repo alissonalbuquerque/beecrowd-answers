@@ -25,11 +25,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 * 
 * 
 * 
-* 
-*  
-* 
-* 1259 - Pares e Ímpares
-* 
+* (Lista Completa)[https://github.com/alissonalbuquerque/URI-C_CPP/blob/master/estruturas/lista.md]
 
 ## Linguagens / Bibliotecas
 
