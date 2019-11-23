@@ -1,12 +1,12 @@
 
 # Lista de Questões (Estruturas)
 
+* 1022 - 
 * 
 * 
 * 
 * 
-* 
-* 
+* 1069 - 
 * 
 * 
 * 

@@ -5,12 +5,12 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
 ## Questões Respondidas
 
+* 1022 - 
 * 
 * 
 * 
 * 
-* 
-* 
+* 1069 - 
 * 
 * 
 * 
