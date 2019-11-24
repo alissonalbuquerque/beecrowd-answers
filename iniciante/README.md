@@ -53,6 +53,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 #include <math.h>
 
     pow();
+    sqrt();
 ```
 ```c
 #include <stdlib.h>
