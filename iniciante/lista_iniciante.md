@@ -1,0 +1,23 @@
+
+# Lista de Questões (Iniciante)
+
+* 1001 - Extremamente Básico
+* 1002 - Área do Círculo
+* 1003 - Soma Simples
+* 1004 - Produto Simples
+* 1005 - Média 1
+* 1006 - Média 2
+* 1007 - Diferença
+* 1008 - Salário
+* 1009 - Salário com Bônus
+* 1010 - Cálculo Simples
+* 1011 - Esfera
+* 1012 - Área
+* 1013 - O Maior
+* 1014 - Consumo
+* 1015 - 
+* 
+* 
+* 
+* 
+* 
