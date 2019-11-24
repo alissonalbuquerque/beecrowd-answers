@@ -15,7 +15,12 @@
 * 1012 - Área
 * 1013 - O Maior
 * 1014 - Consumo
-* 1015 - 
+* 1015 - Distância Entre Dois Pontos
+* 1016 - Distância
+* 1017 - Gasto de Combustível
+* 1018 - 
+* 1019 - 
+* 1020 - 
 * 
 * 
 * 

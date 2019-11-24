@@ -19,12 +19,12 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 * 1012 - Área
 * 1013 - O Maior
 * 1014 - Consumo
-* 1015 - 
-* 
-* 
-* 
-* 
-* 
+* 1015 - Distância Entre Dois Pontos
+* 1016 - Distância
+* 1017 - Gasto de Combustível
+* 1018 - 
+* 1019 - 
+* 1020 - 
 * [Lista Completa](https://github.com/alissonalbuquerque/URI-C_CPP/blob/master/iniciante/lista_iniciante.md)
 
 ## Linguagens / Bibliotecas
