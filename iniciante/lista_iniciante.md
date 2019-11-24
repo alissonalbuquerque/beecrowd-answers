@@ -2,6 +2,7 @@
 # Lista de Questões (Iniciante)
 
 ## --- Parte I ----
+
 * 1001 - Extremamente Básico
 * 1002 - Área do Círculo
 * 1003 - Soma Simples
@@ -31,4 +32,12 @@
 
 ## --- Parte II ---
 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 ---
