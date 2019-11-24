@@ -25,7 +25,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 * 
 * 
 * 
-* 
+* [Lista Completa](https://github.com/alissonalbuquerque/URI-C_CPP/blob/master/iniciante/lista_iniciante.md)
 
 ## Linguagens / Bibliotecas
 
