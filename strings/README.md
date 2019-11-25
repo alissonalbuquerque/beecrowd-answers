@@ -23,6 +23,9 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 * 1254 - 
 * 1255 - 
 * 1257 - Array Hash
+* 1262 - 
+* 1263 - 
+* [Lista Completa](https://github.com/alissonalbuquerque/URI-C_CPP/blob/master/strings/lista_strings.md)
 
 ## Linguagens / Bibliotecas
 
