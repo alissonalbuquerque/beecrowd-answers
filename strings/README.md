@@ -67,4 +67,5 @@ using namespace std;
 std::string str;
 std::string.size();   // str.size();
 std::string.length(); // str.length(); 
+std::string.substr(); // str.substr();
 ```
