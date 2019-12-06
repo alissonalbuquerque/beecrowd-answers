@@ -22,9 +22,9 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 * 1015 - Distância Entre Dois Pontos
 * 1016 - Distância
 * 1017 - Gasto de Combustível
-* 1018 - 
-* 1019 - 
-* 1020 - 
+* 1018 - Cédulas
+* 1019 - Conversão de Tempo
+* 1020 - Idade em Dias
 * [Lista Completa](https://github.com/alissonalbuquerque/URI-C_CPP/blob/master/iniciante/lista_iniciante.md)
 
 ## Linguagens / Bibliotecas

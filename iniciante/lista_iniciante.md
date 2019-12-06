@@ -20,9 +20,9 @@
 * 1015 - Distância Entre Dois Pontos
 * 1016 - Distância
 * 1017 - Gasto de Combustível
-* 1018 - 
-* 1019 - 
-* 1020 - 
+* 1018 - Cédulas
+* 1019 - Conversão de Tempo
+* 1020 - Idade em Dias
 * 1021 - 
 * 1035 - 
 * 1036 - 
