@@ -13,7 +13,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 * 1234 - 
 * 1235 - 
 * 1237 - 
-* 1238 - 
+* 1238 - Combinador
 * 1239 - 
 * 1241 - Encaixa ou Não II
 * 1243 - 
