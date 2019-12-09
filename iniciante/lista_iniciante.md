@@ -23,7 +23,7 @@
 * 1018 - Cédulas
 * 1019 - Conversão de Tempo
 * 1020 - Idade em Dias
-* 1021 - 
+* 1021 - Notas e Moedas
 * 1035 - 
 * 1036 - 
 * 1037 - 
