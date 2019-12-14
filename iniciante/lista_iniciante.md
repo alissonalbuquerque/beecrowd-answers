@@ -24,20 +24,25 @@
 * 1019 - Conversão de Tempo
 * 1020 - Idade em Dias
 * 1021 - Notas e Moedas
-* 1035 - 
-* 1036 - 
-* 1037 - 
-* 1038 - 
+* 1035 - Teste de Seleção 1
+* 1036 - Fórmula de Bhaskara
+* 1037 - Intervalo
+* 1038 - Lanche
 --- 
 
 ## --- Parte II ---
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* 1040 - Média 3
+* 1041 - Coordenadas de um Ponto
+* 1042 - 
+* 1043 - 
+* 1044 - 
+* 1045 - 
+* 1046 - 
+* 1047 - 
+* 1048 -
+* 1049 - 
+* 1050 - 
+* 1051 - 
+* 1052 - 
 ---
