@@ -59,4 +59,5 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 #include <stdlib.h>
 
     abs();
+    qsort();
 ```
