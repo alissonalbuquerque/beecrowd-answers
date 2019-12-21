@@ -1,7 +1,7 @@
 
 # URI : C / C++
 
-- Respostas do URI em C / C++
+Respostas do URI em C / C++
 
 ---
 
@@ -15,4 +15,5 @@
 * [PARADIGMAS]
 * [GRAFOS]
 * [GEOMETRIA](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/geometria)
+
 ---
