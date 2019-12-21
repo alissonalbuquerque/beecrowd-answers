@@ -1,7 +1,7 @@
 
 # Lista de Questões (Iniciante)
 
-## --- Parte I ----
+## --- Lista 01 ----
 
 * 1001 - Extremamente Básico
 * 1002 - Área do Círculo
@@ -28,21 +28,4 @@
 * 1036 - Fórmula de Bhaskara
 * 1037 - Intervalo
 * 1038 - Lanche
---- 
-
-## --- Parte II ---
-
-* 1040 - Média 3
-* 1041 - Coordenadas de um Ponto
-* 1042 - Sort Simples
-* 1043 - Triângulo
-* 1044 - Múltiplos
-* 1045 - 
-* 1046 - 
-* 1047 - 
-* 1048 -
-* 1049 - 
-* 1050 - 
-* 1051 - 
-* 1052 - 
 ---
