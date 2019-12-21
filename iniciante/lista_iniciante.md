@@ -35,8 +35,8 @@
 * 1040 - Média 3
 * 1041 - Coordenadas de um Ponto
 * 1042 - Sort Simples
-* 1043 - 
-* 1044 - 
+* 1043 - Triângulo
+* 1044 - Múltiplos
 * 1045 - 
 * 1046 - 
 * 1047 - 
