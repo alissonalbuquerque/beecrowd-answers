@@ -11,6 +11,12 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 * [Lista 04]
 * [Lista 05]
 * [Lista 06]
+* [Lista 07]
+* [Lista 08]
+* [Lista 09]
+* [Lista 10]
+* [Lista 11]
+* [Lista 12]
 
 ## Linguagens / Bibliotecas
 
