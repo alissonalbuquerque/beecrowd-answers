@@ -5,7 +5,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
 ## Quetões Respondidas
 
-* [Lista 01]()
+* [Lista 01](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/strings/lista_01)
 * [Lista 02]
 * [Lista 03]
 * [Lista 04]
