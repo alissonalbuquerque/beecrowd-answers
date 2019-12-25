@@ -1,7 +1,7 @@
 
 # Lista de Questões (Strings)
 
-## --- Parte I ----
+## --- Lista 01 ----
 
 * 1024 - Criptografia
 * 1120 - 
@@ -24,16 +24,4 @@
 * 1262 - 
 * 1263 - 
 * 1272 - Mensagem Oculta
---- 
-
-## --- Parte II ---
-
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
 ---
