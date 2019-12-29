@@ -25,7 +25,7 @@
 * 1067 - 
 * 1070 - 
 * 1071 - 
-* 1072 - 
-* 1073 - 
+* 1072 - Intervalo 2
+* 1073 - Quadrado de Pares
 * 1074 - Par ou Ímpar
 ---
