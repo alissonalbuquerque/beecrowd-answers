@@ -8,7 +8,7 @@
 * 1042 - Sort Simples
 * 1043 - Triângulo
 * 1044 - Múltiplos
-* 1045 - 
+* 1045 - Tipos de Triângulos
 * 1046 - 
 * 1047 - 
 * 1048 -
