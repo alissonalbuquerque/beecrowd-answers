@@ -21,7 +21,7 @@
 * 1061 - 
 * 1064 - 
 * 1065 - 
-* 1066 - 
+* 1066 - Pares, Ímpares, Positivos e Negativos
 * 1067 - 
 * 1070 - 
 * 1071 - 
