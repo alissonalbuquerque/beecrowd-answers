@@ -16,15 +16,15 @@
 * 1050 - 
 * 1051 - 
 * 1052 - Mês
-* 1059 - 
-* 1060 - 
+* 1059 - Números Pares
+* 1060 - Números Positivos
 * 1061 - 
-* 1064 - 
-* 1065 - 
+* 1064 - Positivos e Média
+* 1065 - Pares entre Cinco Números
 * 1066 - Pares, Ímpares, Positivos e Negativos
-* 1067 - 
-* 1070 - 
-* 1071 - 
+* 1067 - Números Ímpares
+* 1070 - Seis Números Ímpares
+* 1071 - Soma de Impares Consecutivos I
 * 1072 - Intervalo 2
 * 1073 - Quadrado de Pares
 * 1074 - Par ou Ímpar
