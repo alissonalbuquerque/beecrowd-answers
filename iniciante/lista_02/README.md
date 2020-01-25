@@ -9,8 +9,8 @@
 * 1043 - Triângulo
 * 1044 - Múltiplos
 * 1045 - Tipos de Triângulos
-* 1046 - 
-* 1047 - 
+* 1046 - Tempo de Jogo
+* 1047 - Tempo de Jogo com Minutos
 * 1048 -
 * 1049 - 
 * 1050 - 
