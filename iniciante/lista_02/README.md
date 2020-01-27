@@ -12,8 +12,8 @@
 * 1046 - Tempo de Jogo
 * 1047 - Tempo de Jogo com Minutos
 * 1048 - Aumento de Salário
-* 1049 - 
-* 1050 - 
+* 1049 - Animal
+* 1050 - DDD
 * 1051 - 
 * 1052 - Mês
 * 1059 - Números Pares
