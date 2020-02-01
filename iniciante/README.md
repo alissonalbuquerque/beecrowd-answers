@@ -39,6 +39,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
     printf();
     scanf();
+    puts();
 ```
 ```c
 #include <math.h>
@@ -51,4 +52,14 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
     abs();
     qsort();
+```
+```c
+#include <string.h>
+
+    strlen();
+```
+```c
+#include <stdbool.h>
+
+    bool type; // true or false
 ```
