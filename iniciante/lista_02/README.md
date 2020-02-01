@@ -14,7 +14,7 @@
 * 1048 - Aumento de Salário
 * 1049 - Animal
 * 1050 - DDD
-* 1051 - 
+* 1051 - Imposto de Renda
 * 1052 - Mês
 * 1059 - Números Pares
 * 1060 - Números Positivos
