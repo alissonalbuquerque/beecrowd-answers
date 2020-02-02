@@ -15,5 +15,6 @@
 * [PARADIGMAS]
 * [GRAFOS]
 * [GEOMETRIA](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/geometria)
+* [ORIGENS](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/origens)
 
 ---
