@@ -7,7 +7,7 @@ Lista de questões e Elementos da linguagem que foram usados no conjunto de ques
 
 * [Lista 01](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/iniciante/lista_01)
 * [Lista 02](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/iniciante/lista_02)
-* [Lista 03]
+* [Lista 03](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/iniciante/lista_03)
 * [Lista 04]
 * [Lista 05]
 * [Lista 06]
