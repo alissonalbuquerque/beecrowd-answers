@@ -1,7 +1,7 @@
 
 # Lista de Questões (Iniciante)
 
-## --- Parte 02 ---
+## --- Lista 02 ---
 
 * 1040 - Média 3
 * 1041 - Coordenadas de um Ponto
