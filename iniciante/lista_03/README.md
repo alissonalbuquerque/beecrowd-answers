@@ -5,12 +5,12 @@
 
 * 1075 - Resto 2
 * 1078 - Tabuada
-* 1079 - 
-* 1080 - 
-* 1094 - 
-* 1095 - 
-* 1096 - 
-* 1097 - 
+* 1079 - Médias Ponderadas
+* 1080 - Maior e Posição
+* 1094 - Experiências
+* 1095 - Sequencia IJ 1
+* 1096 - Sequencia IJ 2
+* 1097 - Sequencia IJ 3
 * 1098 - 
 * 1099 - 
 * 1101 - 
