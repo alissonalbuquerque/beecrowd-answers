@@ -34,24 +34,3 @@ int main() {
 
     return 0;
 }
-
-/*
-    ----------------------------
-    Entrada:
-        7 8 9 10
-    Saida:
-        O JOGO DUROU 2 HORA(S) E 2 MINUTO(S)
-    ----------------------------
-    ----------------------------
-    Entrada:
-        7 7 7 7
-    Saida:
-        O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)
-    ----------------------------
-    ----------------------------
-    Entrada:
-        7 10 8 9
-    Saida:
-        O JOGO DUROU 0 HORA(S) E 59 MINUTO(S)
-    ----------------------------
-*/

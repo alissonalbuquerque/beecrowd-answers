@@ -29,19 +29,3 @@ int main() {
     
     return 0;
 }
-
-/*
-    ----------------------------
-    Entrada:
-        -5
-        0
-        -3
-        -4
-        12
-    Saida:
-        3 valor(es) par(es)
-        2 valor(es) impar(es)
-        1 valor(es) positivo(s)
-        3 valor(es) negativo(s)
-    ----------------------------
-*/

@@ -36,30 +36,3 @@ int main() {
 
     return 0;
 }
-
-/*
-    ----------------------------
-    Entrada:
-        400.00
-    Saida:
-        Novo salario: 460.00
-        Reajuste ganho: 60.00
-        Em percentual: 15 %
-    ----------------------------
-    ----------------------------
-    Entrada:
-        800.01
-    Saida:
-        Novo salario: 880.01
-        Reajuste ganho: 80.00
-        Em percentual: 10 %
-    ----------------------------
-    ----------------------------
-    Entrada:
-        2000.00
-    Saida:
-        Novo salario: 2140.00
-        Reajuste ganho: 140.00
-        Em percentual: 7 %
-    ----------------------------
-*/

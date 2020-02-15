@@ -29,19 +29,3 @@ int main() {
 
     return 0;
 }
-
-/*
-    ----------------------------
-    Entrada:
-        4
-        -5
-        0
-        3
-        -4
-    Saida:
-        ODD NEGATIVE
-        NULL
-        ODD POSITIVE
-        EVEN NEGATIVE
-    ----------------------------
-*/

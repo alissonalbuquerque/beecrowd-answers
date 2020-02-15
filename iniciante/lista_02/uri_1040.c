@@ -32,31 +32,3 @@ int main() {
 
     return 0;
 }
-
-/*
-    ----------------------------
-    Entrada:
-        2.0 4.0 7.5 8.0
-        6.4
-    Saida:
-        Media: 5.4
-        Aluno em exame.
-        Nota do exame: 6.4
-        Aluno aprovado.
-        Media final: 5.9
-    ----------------------------
-    ----------------------------
-    Entrada:    
-        2.0 6.5 4.0 9.0
-    Saida:
-        Media: 4.8
-        Aluno reprovado.
-    ----------------------------
-    ----------------------------
-    Entrada:     
-        9.0 4.0 8.5 9.0
-    Saida:	
-        Media: 7.3
-        Aluno aprovado.
-    ----------------------------
-*/

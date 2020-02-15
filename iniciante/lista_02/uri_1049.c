@@ -120,30 +120,3 @@ int main() {
 
     return 0;
 }
-
-/*
-    ----------------------------
-    Entrada:
-        vertebrado
-        mamifero
-        onivoro
-    Saida:
-        homem
-    ----------------------------
-    ----------------------------
-    Entrada:
-        vertebrado
-        ave
-        carnivoro
-    Saida:
-        aguia
-    ----------------------------
-    ----------------------------
-    Entrada:
-        invertebrado
-        anelideo
-        onivoro
-    Saida:
-        minhoca
-    ----------------------------
-*/
