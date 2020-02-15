@@ -43,28 +43,3 @@ int main() {
 
     return 0;
 }
-
-/*
-    ----------------------------
-    Entrada:
-        10
-        10 C
-        6 R
-        15 S
-        5 C
-        14 R
-        9 C
-        6 R
-        8 S
-        5 C
-        14 R
-    Saida:
-        Total: 92 cobaia
-        Total de coelhos: 29
-        Total de ratos: 40
-        Total de sapos: 23
-        Percentual de coelhos: 31.52 %
-        Percentual de ratos: 43.48 %
-        Percentual de sapos: 25.00 %
-    ----------------------------
-*/
