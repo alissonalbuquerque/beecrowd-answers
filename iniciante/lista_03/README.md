@@ -13,8 +13,8 @@
 * 1097 - Sequencia IJ 3
 * 1098 - Sequencia IJ 4
 * 1099 - Soma de Ímpares Consecutivos II
-* 1101 - 
-* 1113 - 
+* 1101 - Sequência de Números e Soma
+* 1113 - Crescente e Decrescente
 * 1114 - Senha Fixa
 * 1115 - 
 * 1116 - 
