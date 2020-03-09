@@ -24,7 +24,7 @@
 * 1132 - 
 * 1133 - 
 * 1134 - 
-* 1142 - 
+* 1142 - PUM
 * 1143 - Quadrado e ao Cubo
 * 1144 - Sequência Lógica
 * 1145 - Sequência Lógica 2
