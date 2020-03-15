@@ -18,7 +18,7 @@
 * 1052 - Mês
 * 1059 - Números Pares
 * 1060 - Números Positivos
-* 1061 - 
+* 1061 - Tempo de um Evento
 * 1064 - Positivos e Média
 * 1065 - Pares entre Cinco Números
 * 1066 - Pares, Ímpares, Positivos e Negativos
