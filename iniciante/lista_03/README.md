@@ -17,12 +17,12 @@
 * 1113 - Crescente e Decrescente
 * 1114 - Senha Fixa
 * 1115 - Quadrante
-* 1116 - 
-* 1117 - 
+* 1116 - Dividindo X por Y
+* 1117 - Validação de Nota
 * 1118 - Várias Notas Com Validação
 * 1131 - 
 * 1132 - 
-* 1133 - 
+* 1133 - Resto da Divisão
 * 1134 - Tipo de Combustível
 * 1142 - PUM
 * 1143 - Quadrado e ao Cubo
