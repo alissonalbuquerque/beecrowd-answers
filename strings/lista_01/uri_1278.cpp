@@ -50,11 +50,8 @@ vector<string> justificador0(vector<string> texto) {
                         break;
                     }
                 }
-
             }
-
         }
-
     }  
 
     return aux;
