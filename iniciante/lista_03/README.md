@@ -21,7 +21,7 @@
 * 1117 - Validação de Nota
 * 1118 - Várias Notas Com Validação
 * 1131 - 
-* 1132 - 
+* 1132 - Múltiplos de 13
 * 1133 - Resto da Divisão
 * 1134 - Tipo de Combustível
 * 1142 - PUM
