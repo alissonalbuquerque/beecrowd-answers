@@ -11,7 +11,7 @@
 * [AD-HOC]
 * [STRINGS](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/strings)
 * [ESTRUTURAS](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/estruturas)
-* [MATEMÁTICA]
+* [MATEMÁTICA](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/matematica)
 * [PARADIGMAS]
 * [GRAFOS]
 * [GEOMETRIA](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/geometria)
