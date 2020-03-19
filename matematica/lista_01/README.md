@@ -1,5 +1,5 @@
 
-# Lista de Questões (Iniciante)
+# Lista de Questões (Matemática)
 
 ## --- Lista 01 ----
 
