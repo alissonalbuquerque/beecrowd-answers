@@ -17,14 +17,14 @@
 * 1160 - 
 * 1164 - 
 * 1165 - 
-* 1172 - 
-* 1173 - 
+* 1172 - Substituição em Vetor I
+* 1173 - Preenchimento de Vetor I
 * 1174 - Seleçao em Vetor I
 * 1175 - Troca em Vetor I
 * 1176 - 
-* 1177 - 
-* 1178 - 
-* 1179 - 
+* 1177 - Preenchimento de Vetor II
+* 1178 - Preenchimento de Vetor III
+* 1179 - Preenchimento de Vetor IV
 * 1180 - Menor e Posição
 * 1181 - 
 * 1182 - 
