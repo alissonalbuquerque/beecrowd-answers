@@ -5,15 +5,15 @@
 
 * 1146 - Sequências Crescentes
 * 1149 - 
-* 1150 - 
+* 1150 - Ultrapassando Z
 * 1151 - 
 * 1153 -
 * 1154 - Idades
-* 1155 - 
+* 1155 - Sequência S
 * 1156 - 
 * 1157 - 
 * 1158 - 
-* 1159 - 
+* 1159 - Soma de Pares Consecutivos
 * 1160 - 
 * 1164 - 
 * 1165 - 
