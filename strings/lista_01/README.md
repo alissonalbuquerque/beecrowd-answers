@@ -26,6 +26,6 @@
 * 1272 - Mensagem Oculta
 * 1273 - Justificador
 * 1276 - 
-* 1277 - 
+* 1277 - Pouca Frequência
 * 1278 - Justificador II
 ---
