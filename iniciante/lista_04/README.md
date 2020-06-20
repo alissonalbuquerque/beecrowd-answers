@@ -6,7 +6,7 @@
 * 1146 - Sequências Crescentes
 * 1149 - 
 * 1150 - Ultrapassando Z
-* 1151 - 
+* 1151 - Fibonacci Fácil 
 * 1153 -
 * 1154 - Idades
 * 1155 - Sequência S
