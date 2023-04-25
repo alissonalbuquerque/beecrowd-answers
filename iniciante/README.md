@@ -1,65 +1,35 @@
 
-# Informações
+# | Lista de Questões (Iniciante) |
+## | Lista 01 |
+---
+* 1000 - Hello World! [ py ]
+* 1001 - Extremamente Básico [ c - py ]
+* 1002 - Área do Círculo [ c - py ]
+* 1003 - Soma Simples [ c - py ]
+* 1004 - Produto Simples [ c - py ]
+* 1005 - Média 1 [ c - py ]
+* 1006 - Média 2 [ c - py ]
+* 1007 - Diferença [ c - py ]
+* 1008 - Salário [ c - py ]
+* 1009 - Salário com Bônus [ c - py ]
+* 1010 - Cálculo Simples [ c - py ]
+* 1011 - Esfera [ c - py ]
+* 1012 - Área [ c - py ]
+* 1013 - O Maior [ c - py ]
+* 1014 - Consumo [ c - py ]
+* 1015 - Distância Entre Dois Pontos [ c - py ]
+* 1016 - Distância [ c - py ]
+* 1017 - Gasto de Combustível [ c - py ]
+* 1018 - Cédulas [ c - py ]
+* 1019 - Conversão de Tempo [ c - py ]
+* 1020 - Idade em Dias [ c - py ]
+* 1021 - Notas e Moedas [ c - py ]
+* 1035 - Teste de Seleção 1 [ c - py ]
+* 1036 - Fórmula de Bhaskara [ c - py ]
+* 1037 - Intervalo [ c - py ]
+---
 
-Lista de questões e Elementos da linguagem que foram usados no conjunto de questões (Linguagens, Bibliotecas, Funções, Tipos de dados etc)
-
-## Quetões Respondidas
-
-* [Lista 01](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/iniciante/lista_01)
-* [Lista 02](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/iniciante/lista_02)
-* [Lista 03](https://github.com/alissonalbuquerque/URI-C_CPP/tree/master/iniciante/lista_03)
-* [Lista 04]
-* [Lista 05]
-* [Lista 06]
-* [Lista 07]
-* [Lista 08]
-* [Lista 09]
-* [Lista 10]
-* [Lista 11]
-* [Lista 12]
-
-## Linguagens / Bibliotecas
-
-### Linguagem C:
-
-```c
-    #include <stdio.h>
-
-    int main() {
-
-
-        return 0;
-    }
-```
-
-### Bibliotecas C:
-
-```c
-#include <stdio.h>
-
-    printf();
-    scanf();
-    puts();
-```
-```c
-#include <math.h>
-
-    pow();
-    sqrt();
-```
-```c
-#include <stdlib.h>
-
-    abs();
-    qsort();
-```
-```c
-#include <string.h>
-
-    strlen();
-```
-```c
-#include <stdbool.h>
-
-    bool type; // true or false
-```
+## | Lista 02 |
+---
+* 1038 - Lanche [ c ]
+---
