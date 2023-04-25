@@ -32,4 +32,62 @@
 ## | Lista 02 |
 ---
 * 1038 - Lanche [ c ]
+* 1040 - Média 3 [ c ]
+* 1041 - Coordenadas de um Ponto [ c ]
+* 1042 - Sort Simples [ c ]
+* 1043 - Triângulo [ c ]
+* 1044 - Múltiplos [ c ]
+* 1045 - Tipos de Triângulos [ c ]
+* 1046 - Tempo de Jogo [ c ]
+* 1047 - Tempo de Jogo com Minutos [ c ]
+* 1048 - Aumento de Salário [ c ]
+* 1049 - Animal [ c ]
+* 1050 - DDD [ c ]
+* 1051 - Imposto de Renda [ c ]
+* 1052 - Mês [ c ]
+* 1059 - Números Pares [ c ]
+* 1060 - Números Positivos [ c ]
+* 1061 - Tempo de um Evento [ c ]
+* 1064 - Positivos e Média [ c ]
+* 1065 - Pares entre Cinco Números [ c ]
+* 1066 - Pares, Ímpares, Positivos e Negativos [ c ]
+* 1067 - Números Ímpares [ c ]
+* 1070 - Seis Números Ímpares [ c ]
+* 1071 - Soma de Impares Consecutivos I [ c ]
+* 1072 - Intervalo 2 [ c ]
+* 1073 - Quadrado de Pares [ c ]
+---
+
+## | Lista 03 |
+---
+* 1074 - Par ou Ímpar [ c ]
+* 1075 - Resto 2 [ c ]
+* 1078 - Tabuada [ c ]
+* 1079 - Médias Ponderadas [ c ]
+* 1080 - Maior e Posição [ c ]
+* 1094 - Experiências [ c ]
+* 1095 - Sequencia IJ 1 [ c ]
+* 1096 - Sequencia IJ 2 [ c ]
+* 1097 - Sequencia IJ 3 [ c ]
+* 1098 - Sequencia IJ 4 [ c ]
+* 1099 - Soma de Ímpares Consecutivos II [ c ]
+* 1101 - Sequência de Números e Soma [ c ]
+* 1113 - Crescente e Decrescente [ c ]
+* 1114 - Senha Fixa [ c ]
+* 1115 - Quadrante [ c ]
+* 1116 - Dividindo X por Y [ c ]
+* 1117 - Validação de Nota [ c ]
+* 1118 - Várias Notas Com Validação [ c ]
+* 1131 - Grenais [ c ]
+* 1132 - Múltiplos de 13 [ c ]
+* 1133 - Resto da Divisão [ c ]
+* 1134 - Tipo de Combustível [ c ]
+* 1142 - PUM [ c ]
+* 1143 - Quadrado e ao Cubo [ c ]
+* 1144 - Sequência Lógica [ c ]
+---
+
+## | Lista 04 |
+---
+* 1145 - Sequência Lógica 2 [ c ]
 ---
