@@ -90,4 +90,76 @@
 ## | Lista 04 |
 ---
 * 1145 - Sequência Lógica 2 [ c ]
+* 1146 - Sequências Crescentes [ c ]
+* 1149 - 
+* 1150 - Ultrapassando Z [ c ]
+* 1151 - Fibonacci Fácil [ c ]
+* 1153 -
+* 1154 - Idades [ c ]
+* 1155 - Sequência S [ c ]
+* 1156 - 
+* 1157 - 
+* 1158 - 
+* 1159 - Soma de Pares Consecutivos [ c ]
+* 1160 - 
+* 1164 - 
+* 1165 - 
+* 1172 - Substituição em Vetor I [ c ]
+* 1173 - Preenchimento de Vetor I [ c ]
+* 1174 - Seleçao em Vetor I [ c ]
+* 1175 - Troca em Vetor I [ c ]
+* 1176 - 
+* 1177 - Preenchimento de Vetor II [ c ]
+* 1178 - Preenchimento de Vetor III [ c ]
+* 1179 - Preenchimento de Vetor IV [ c ]
+* 1180 - Menor e Posição [ c ]
+* 1181 - Linha na Matriz [ c ]
+* 1182 - 
+---
+
+## | Lista 05 |
+---
+* 
+---
+
+## | Lista 06 |
+---
+* 
+---
+
+## | Lista 07 |
+---
+* 
+---
+
+## | Lista 08 |
+---
+* 
+---
+
+## | Lista 09 |
+---
+* 
+---
+
+## | Lista 10 |
+---
+* 
+---
+
+## | Lista 11 |
+---
+* 2930 - TCC da Depressão Natalino [ c ]
+* 2936 - Quanta Mandioca? [ c ]
+* 2949 - A Sociedade do Anel [ cpp ]
+* 2950 - As Duas Torres [ cpp ]
+* 2951 - O Retorno do Rei [ cpp ]
+* 2963 - Bobo da Corte [ c ]
+---
+
+## | Lista 12 |
+---
+* 3037 - Jogando Dardos Por Distância [ c ]
+* 3039 - Brinquedos do Papai Noel [ c ]
+* 3053 - Jogo Dos Copos [ c ]
 ---
