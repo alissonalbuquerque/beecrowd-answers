@@ -48,7 +48,7 @@
 * 1059 - Números Pares [ c ]
 * 1060 - Números Positivos [ c ]
 * 1061 - Tempo de um Evento [ c ]
-* 1064 - Positivos e Média [ c ]
+* 1064 - Positivos e Média [ c, py ]
 * 1065 - Pares entre Cinco Números [ c ]
 * 1066 - Pares, Ímpares, Positivos e Negativos [ c ]
 * 1067 - Números Ímpares [ c ]
