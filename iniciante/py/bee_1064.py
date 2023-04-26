@@ -11,7 +11,6 @@ numbers.append(float(input()))
 sum_positives = float(0)
 count_positives = int(0)
 
-
 for n in numbers:
     if n > 0:
         sum_positives += n
